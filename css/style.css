@@ -51,7 +51,7 @@ img {
     display: flex;
     margin-top: 128px;
     gap: 50px;
-    justify-content: center;
+    justify-content: flex-end;
 }
 
 
