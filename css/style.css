@@ -74,7 +74,7 @@ img {
 .portfolio-img {
     
     border-bottom-left-radius: 30%;
-    max-width: 500px;
+    width: 500px;
     z-index: 2;
  
 }
